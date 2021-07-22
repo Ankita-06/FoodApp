@@ -1,6 +1,7 @@
 # Flutter Food Recipe Application 
 
-A new Flutter project.
+## This application is not completed yet. Currently, I am working on it. 
+A small attempt to make a Food Recipe app in Flutter for Android and iOS.
 
 ## Getting Started
 
