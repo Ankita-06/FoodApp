@@ -139,7 +139,7 @@ class SearchRecipe {
     SearchRecipe(
       title: 'Tomato Soup',
       subtitle:
-      'A touch of Dijon mustard, salty bacon, melty cheese, and a handful of greens seriously upgrades scrambled eggs, without too much effort!',
+      'Soup',
       cookingTime: '25 min ',
       servings: 2,
       imgPath: 'assets/images/tomato_soup.png',
