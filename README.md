@@ -16,8 +16,8 @@ A small attempt to make a Food Recipe app in Flutter for Android and iOS.
 ### Search Page
 <img src="Screenshots/search1.png" height="500em" /> &nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/search2.png" height="500em" />
 
-### Login & Registration Screen
-<img src="screens/login_screen.jpg" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/signin_scren.jpg" height="500em" />
+### Recipe Detail Scren
+<img src="Screenshots/recipe1.png" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="Screenshots/recipe2.png" height="500em" />
 
 ## ✨ Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
