@@ -3,6 +3,8 @@
 ## This application is not completed yet. Currently, I am working on it. 
 A small attempt to make a Food Recipe app in Flutter for Android and iOS.
 
+## Food Recipe App in Flutter
+
 ## ScreenShots
 ### Splash Screen
 <img src="Screenshots/splash_screen.png" height="500em" />
