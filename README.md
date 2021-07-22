@@ -4,6 +4,9 @@
 A small attempt to make a Food Recipe app in Flutter for Android and iOS.
 
 ## ScreenShots
+### Splash Screen
+<img src="Screenshots/splash_screen.png" height="500em" />
+
 ### Home Page
 <img src="screens/home_screen.jpg" height="500em" />
 
